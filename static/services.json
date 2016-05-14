@@ -1,0 +1,19 @@
+{
+    "showBranding": true,
+    "editURL": "https://github.com/jnetterf/nimblist/edit/gh-pages/services.json",
+    "services": [
+        {
+            "url": "https://nettek.ca",
+            "checkURL": "https://nettek.ca",
+            "description": "My home page"
+        },
+        {
+            "url": "http://localhost:3000",
+            "description": "API server"
+        },
+        {
+            "url": "http://localhost:2017",
+            "description": "Dev server"
+        }
+    ]
+}
